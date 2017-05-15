@@ -1,0 +1,29 @@
+#login-container {
+	padding-top: 10%; 
+	width: 400px;
+	border-color: grey;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+	background: #19293a;
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover {
+	background: #47627c;
+}
+
+.panel-body {
+	/*background: red;*/
+}
